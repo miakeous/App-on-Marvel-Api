@@ -1,0 +1,74 @@
+Thunderbirds – Projet Informatique de Parcours <br>
+<h1 style = 'text-align : center'> Documentation Utilisateur </h1> <br>
+<br>
+Sommaire : <br>
+<br>
+- Installation<br>
+- Découverte de l’application <br>
+- Rechercher des personnages <br>
+- Rechercher des comics <br>
+- Gérer mes comics<br>
+<br>
+<h2 style = 'text-align : center'> Installation :</h2>
+<br>
+   Pour assurer le fonctionnement de toutes les fonctionnalités de l’application, vous devez vous assurer de placer l’exécutable .jar et le fichier de la base de donnée dans le même dossier.<br> Assurer vous que votre ordinateur dispose d’un environnement JAVA.<br>
+Il est conseillé de copier l’application et la base de données sur votre disque dur.<br>
+<br>
+<h2 style = 'text-align : center'> Lancement :</h2>
+<br>
+Lancer l’application en fonction de votre environnement java et de votre système d’exploitation : Par un clic droit : executer, ou un ligne de commande (ex : java -jar application.jar) dans le dossier contenant l’exécutable.<br>
+<br>
+<h2 style = 'text-align : center'> Découverte de l’application :</h2>
+<br>
+L’application se compose de 3 onglets : <br>
+<br>
+Pour changer d’onglet, il suffit de cliquer dessus.<br>
+Vous trouverez dans la suite de cette documentation des détails sur chacun des onglets et leurs fonctionnalités.<br>
+<img src="Ressource/onglet.png"></img>
+1) Rechercher des personnages<br>
+<br>
+Pour utiliser cette fonctionnalité, il vous suffit d’entrer le nom d’un personnage de l’Univers Marvel, et de cliquer sur le bouton « Recherche » ou de presser la touche ENTREE de votre clavier.
+Vous verrez ensuite s’afficher un ensemble d’informations :<br>
+<img src="Ressource/ongletPerso.png"></img><br><br>
+
+2) Rechercher des comics<br>
+Ici, vous pouvez rechercher le titre d’un comics ou d’une série de comics.
+Tout comme sur l’onglet précédent, entrer le nom de celui-ci et appuyer sur le bouton « Recherche » ou pressez la touche ENTREE de votre clavier.<br>
+
+Voici le résultat afficher pour une recherche basique :<br>
+<img src="Ressource/ongletComics.png"></img><br><br>
+Il est possible d’afficher sa recherche en indiquant l’année de parution et/ou le chapitre du comics recherché.
+Nombre de résultats : Vous pouvez faire variez ce nombre de 20 à 99.
+ATTENTION : plus le nombre de résultats affichés est conséquent, plus le temps de recherche sera long.
+Ici, l’application vous indique le nombre total de comics correspondants à votre requête, si ce nombre est supérieur à 99, ils ne seront pas tous affichés dans l’application.
+Vous pouvez cliquez sur le nombre en sur-brillance bleue pour accéder à la liste complète des comics.<br>
+<b><Obtenir plus d’informations sur un comics :</b><br>
+Pour voir les détails sur un comics, il faut cliquez sur l’image. Vous obtenez la fenêtre suivante :<br>
+<img src="Ressource/ongletComic.png"></img><br><br>
+Outre les informations affichées, vous pouvez ajouter ce comics à votre base de données personnelle grâce au bouton dédié en faut à droite de l’écran.<br>
+<img src="Ressource/ajout.png"></img><br><br>
+Ce message s’affiche pour vous indiquer que le comics à bien été ajouté à la base de donnée. Pour géré les comics que vous avez ajouté, cliquez sur l’onglet « Gérer mes comics »<br>
+
+3) Gérer mes comics<br>
+Vous voici sur l’onglet gérer mes comics, ici vous verrez tout les comics que vous avez ajouté via l’ongle de recherche de comics.<br>
+<img src="Ressource/resuBdd.png"></img><br><br>
+
+En cliquant sur l’un deux, vous verrez de nouvelles fonctionnalités :<br>
+<br>
+<img src="Ressource/BddComic.png"></img><br><br>
+En cliquant sur j’ai acheter ce comics, vous l’incluez dans les comics que vous possédez.
+Le bouton « voir la suite » vous permet (si le comics fait partie d’une série), de voir quels sont les chapitres suivants.<br>
+Ajouter un marque-page vous permet de garder en mémoire l’avancement de votre lecture, plus besoin de corner la page !<br>
+Vous pouvez ajouter divers commentaire, comme ceci :<br>
+<img src="Ressource/ComDidier"></img><br><br>
+Le commentaire apparaîtra ensuite dans le champ Commentaire<br>
+<img src="Ressource/Com.png"></img><br><br>
+
+<b>Suggestion de lecture :</b><br>
+  Revenez ensuite sur l’accueil de l’onglet «Gérer mes comics » et cliquer sur le bouton « voir mes recommandations »<br>
+La fenêtre suivante s’affiche :<br>
+<img src="Ressource/recom.png"></img><br><br>
+Les recommandations affichées dépendent des comics que vous avez ajouter à votre bibliothèque de comics.<br>
+
+<br><br>
+    Projet Informatique de Parcours – Equipe Thunderbirds Janvier 2018

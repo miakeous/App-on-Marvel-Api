@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="derbyclient.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/lib/derbyclient.jar!/"/>
+	</lib>
+	<lib name="derby.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/lib/derby.jar!/"/>
+	</lib>
+	<lib name="db-derby-10.14.1.0-bin" scope="COMPILE">
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs"/>
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/client"/>
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/common"/>
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/server"/>
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/simple"/>
+		<srcroot url="file://$MODULE_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/vtis/java"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/client"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/common"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/scores/java/server"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/simple"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/demo/programs/vtis/java"/>
+		<relative-module-cls project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin"/>
+		<relative-module-javadoc project-related="file://$PROJECT_DIR$/lib/db-derby-10.14.1.0-bin/javadoc"/>
+	</lib>
+	<levels>
+		<level name="mysql-connector-java-5.1" value="project"/>
+		<level name="mysql-connector-java-5.1.45-bin" value="project"/>
+		<level name="db-derby-10.14.1" value="project"/>
+		<level name="db-derby-10.14.11" value="project"/>
+	</levels>
+</component>

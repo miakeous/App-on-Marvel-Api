@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 15 19:54:51 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0160-fb2c-964b-0000026ce378 
+on database directory /Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds/classes/artifacts/Thunderbirds_jar/MARVELBDD with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds/classes/artifacts/Thunderbirds_jar/Thunderbirds.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds/classes/artifacts/Thunderbirds_jar
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

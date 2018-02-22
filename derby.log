@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 16 09:04:48 CET 2018:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820) : instance a816c00e-0160-fdff-cdcd-000002729238 
+dans le répertoire de base de données /Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds/MARVELBDD avec le chargeur de classe sun.misc.Launcher$AppClassLoader@18b4aac2
+Chargé de file:/Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds/lib/db-derby-10.14.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/pierretardiveau/Desktop/2017PInfo88-Thunderbirds
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.1
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
