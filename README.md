@@ -9,3 +9,6 @@ Warning: certains proxy ont du mal avec des httpS; on change alors avec : git co
 pour que ça marche à la maison: git config --global --unset http.sslVerify git config --global --unset http.proxy
 
 Mais à l'école il faut remettre: git config --global http.proxy http://cache.univ-st-etienne.fr:3128/
+
+
+Application in Java for Comics lover.
